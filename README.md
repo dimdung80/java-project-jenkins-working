@@ -1,2 +1,2 @@
-# java-project-jenkins-working
-This is working build.xml
+# java-project
+Java Project for Jenkins Course
